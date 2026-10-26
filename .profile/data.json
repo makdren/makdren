@@ -1,8 +1,8 @@
 {
- "key": "f658d11d",
- "stars": 14,
- "contributions": 161,
- "repos": 9,
+ "key": "18d485b6",
+ "stars": 15,
+ "contributions": 170,
+ "repos": 10,
  "followers": 1,
  "languages": [
   [
@@ -11,7 +11,7 @@
   ],
   [
    "TypeScript",
-   145344
+   149970
   ],
   [
    "Python",
@@ -19,7 +19,7 @@
   ],
   [
    "CSS",
-   11616
+   14474
   ],
   [
    "JavaScript",
@@ -107,11 +107,15 @@
   ],
   [
    {
-    "c": 0,
+    "c": 3,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -120,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 2,
   "longest": 2
  },
  "pins": [
@@ -178,6 +182,15 @@
    "fork": false,
    "stars": 3,
    "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "RVC",
+   "url": "https://github.com/makdren/RVC",
+   "text": "VPN клиент с современным дизайном и гибкой настройкой провайдером",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
    "topics": []
   },
   {
