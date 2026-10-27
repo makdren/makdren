@@ -1,7 +1,7 @@
 {
- "key": "18d485b6",
+ "key": "2b463c96",
  "stars": 15,
- "contributions": 170,
+ "contributions": 177,
  "repos": 10,
  "followers": 1,
  "languages": [
@@ -11,7 +11,7 @@
   ],
   [
    "TypeScript",
-   149970
+   150259
   ],
   [
    "Python",
@@ -24,6 +24,10 @@
   [
    "JavaScript",
    10635
+  ],
+  [
+   "Vue",
+   6201
   ],
   [
    "HTML",
@@ -112,11 +116,15 @@
     "today": false
    },
    {
-    "c": 6,
+    "c": 13,
     "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -190,7 +198,7 @@
    "text": "VPN клиент с современным дизайном и гибкой настройкой провайдером",
    "fork": false,
    "stars": 1,
-   "language": "TypeScript",
+   "language": "Vue",
    "topics": []
   },
   {
