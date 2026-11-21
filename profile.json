@@ -9,7 +9,6 @@
   "order": [
     "hero",
     "socials",
-    "about",
     "stack",
     "projects",
     "stats",
@@ -19,7 +18,7 @@
   ],
   "hidden": [],
   "hero": {
-    "greeting": "Hello, i'm",
+    "greeting": "Hi, i'm",
     "name": "makdren",
     "subtitle": "I make various VPN-related tools and various applications. ",
     "typing": true,
@@ -27,28 +26,11 @@
     "chips": [
       {
         "icon": "arrow_outward",
-        "label": "https://rowny.online"
+        "label": "https://rowny.shop"
       },
       {
         "icon": "person",
         "label": "https://t.me/iproller"
-      }
-    ]
-  },
-  "about": {
-    "title": "About me",
-    "items": [
-      {
-        "icon": "person",
-        "label": "Developer and designer"
-      },
-      {
-        "icon": "code",
-        "label": "Mostly frontend"
-      },
-      {
-        "icon": "palette",
-        "label": "Into Material Design"
       }
     ]
   },
